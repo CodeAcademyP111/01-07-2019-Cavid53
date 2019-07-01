@@ -1,0 +1,7 @@
+C:\Users\Cavid\Desktop\homework2\Homework_Cinema_Hall\Homework_Cinema_Hall\bin\Debug\Homework_Cinema_Hall.exe.config
+C:\Users\Cavid\Desktop\homework2\Homework_Cinema_Hall\Homework_Cinema_Hall\bin\Debug\Homework_Cinema_Hall.exe
+C:\Users\Cavid\Desktop\homework2\Homework_Cinema_Hall\Homework_Cinema_Hall\bin\Debug\Homework_Cinema_Hall.pdb
+C:\Users\Cavid\Desktop\homework2\Homework_Cinema_Hall\Homework_Cinema_Hall\obj\Debug\Homework_Cinema_Hall.csprojAssemblyReference.cache
+C:\Users\Cavid\Desktop\homework2\Homework_Cinema_Hall\Homework_Cinema_Hall\obj\Debug\Homework_Cinema_Hall.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\Desktop\homework2\Homework_Cinema_Hall\Homework_Cinema_Hall\obj\Debug\Homework_Cinema_Hall.exe
+C:\Users\Cavid\Desktop\homework2\Homework_Cinema_Hall\Homework_Cinema_Hall\obj\Debug\Homework_Cinema_Hall.pdb
